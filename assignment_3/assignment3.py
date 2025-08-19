@@ -1,6 +1,6 @@
 def calculate_discount(price, discount_percent):
     """
-    Calculate the discounted price based on the original price and discount percentage.
+    Calculate the discounted price based on the original price and discount percentages.
     """
 
     discount_amount = (discount_percent / 100) * price
