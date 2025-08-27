@@ -1,5 +1,0 @@
-Hello, World!
-This is a sample file.
-It contains multiple lines of text.
-This line contains new_text that will be replaced.
-Goodbye, World!
